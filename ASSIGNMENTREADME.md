@@ -29,7 +29,7 @@ This is a **React.js application** built with **JSX** and **Tailwind CSS** that 
 - Interactive elements include hover effects and subtle transitions.
 
 ### 4. Project Structure
-
+```
 src/
 ├── components/ # Reusable UI components: Button, TaskManager, Navbar, Footer
 ├── hooks/ # Custom hook: useLocalStorageTasks
@@ -37,6 +37,7 @@ src/
 ├── context/ # Optional: for theme/context providers
 ├── pages/ # Optional: page-level components
 └── App.jsx # Main application component
+```
 
 ---
 
