@@ -1,5 +1,7 @@
 # PLP Task Manager
 
+https://loquacious-dasik-baf0e9.netlify.app/
+
 This is a **React.js application** built with **JSX** and **Tailwind CSS** that demonstrates component-based architecture, state management, custom hooks, and API integration.
 
 ---
