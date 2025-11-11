@@ -1,0 +1,18 @@
+/* src/index.css */
+
+/* Tailwind base (preflight) */
+@tailwind base;
+
+/* Tailwind components (utilities you may compose) */
+@tailwind components;
+
+/* Tailwind utilities */
+@tailwind utilities;
+
+/* Optional: small helper to smooth transitions */
+:root {
+  --transition-speed: 200ms;
+}
+html, body, #root {
+  height: 100%;
+}
